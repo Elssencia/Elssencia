@@ -11,15 +11,9 @@ Fudan University
 Shanghai, China.
 
 ## Research Interests
+
 - Large Language Models
 - Fault tolerance
-
-## Skills
-
-- Natural Language: Chinese (Native); English (CET-6)
-- Programming Language: **Python**; C++; Golang; Verilog HDL; MATLAB
-- Typesetting Language: **LaTeX**; Markdown
-- Programming Framework: **PyTorch**; **Deepspeed**; **TransformerEngine**, Megatron
 
 [![](https://activity-graph.herokuapp.com/graph?username=Ind1x1&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![Ind1x1's github stats](https://github-readme-stats.vercel.app/api?username=Ind1x1&show_icons=true&theme=vue)
