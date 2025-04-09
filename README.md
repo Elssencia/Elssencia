@@ -2,7 +2,7 @@
 
 # Leyi Ye
 
-### *Master's Degree*
+### *Master's Degree Student*
 
 Fudan University
 
