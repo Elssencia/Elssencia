@@ -8,7 +8,7 @@ Southeast University
 
 Southeast University Road, Nanjing
 
-Jiangsu, China.
+Jiangsu Province, China.
 
 ## Research Interests
 
